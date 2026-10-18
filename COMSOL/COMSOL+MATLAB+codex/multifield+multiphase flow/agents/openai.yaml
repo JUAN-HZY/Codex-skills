@@ -1,0 +1,6 @@
+interface:
+  display_name: "COMSOL with MATLAB"
+  short_description: "Run, diagnose, and validate COMSOL simulations through MATLAB"
+  default_prompt: "Use $comsol-with-matlab to inspect my project, run COMSOL through MATLAB, diagnose failures, validate results, and preserve verified experience."
+policy:
+  allow_implicit_invocation: true
